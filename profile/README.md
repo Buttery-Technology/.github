@@ -1,4 +1,4 @@
-# Buttery Technology Group, Inc.
+# Buttery Technology, Inc.
 <img src="https://user-images.githubusercontent.com/26751945/170615548-274139f0-7f7d-4567-a36f-4e8fde191bd8.png" width="200" />
 
 ### Hi there 👋
